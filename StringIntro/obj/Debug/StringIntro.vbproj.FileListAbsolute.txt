@@ -1,0 +1,10 @@
+H:\GitHub\StringIntro\StringIntro\bin\Debug\StringIntro.exe.config
+H:\GitHub\StringIntro\StringIntro\bin\Debug\StringIntro.exe
+H:\GitHub\StringIntro\StringIntro\bin\Debug\StringIntro.pdb
+H:\GitHub\StringIntro\StringIntro\bin\Debug\StringIntro.xml
+H:\GitHub\StringIntro\StringIntro\obj\Debug\StringIntro.Form1.resources
+H:\GitHub\StringIntro\StringIntro\obj\Debug\StringIntro.Resources.resources
+H:\GitHub\StringIntro\StringIntro\obj\Debug\StringIntro.vbproj.GenerateResource.Cache
+H:\GitHub\StringIntro\StringIntro\obj\Debug\StringIntro.exe
+H:\GitHub\StringIntro\StringIntro\obj\Debug\StringIntro.xml
+H:\GitHub\StringIntro\StringIntro\obj\Debug\StringIntro.pdb
